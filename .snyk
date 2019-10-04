@@ -10,3 +10,6 @@ patch:
         patched: '2019-07-04T08:42:35.114Z'
     - parse-server-simple-mailgun-adapter > mailgun-js > async > lodash:
         patched: '2019-07-04T08:42:35.114Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - parse-server-simple-mailgun-adapter > mailgun-js > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-04T08:39:22.371Z'
