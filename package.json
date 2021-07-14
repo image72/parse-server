@@ -38,7 +38,7 @@
     "parse-server-push-adapter": "^1.0.0",
     "parse-server-s3-adapter": "^1.0.1",
     "parse-server-simple-mailgun-adapter": "^1.0.0",
-    "redis": "^2.5.0-1",
+    "redis": "^3.1.1",
     "request": "^2.65.0",
     "tv4": "^1.2.7",
     "winston": "^2.1.1",
